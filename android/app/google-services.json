@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "783815158974",
+    "project_id": "neroavenue-1cf8d",
+    "storage_bucket": "neroavenue-1cf8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783815158974:android:8f1bd206526c92dbc202ef",
+        "android_client_info": {
+          "package_name": "com.neroavenue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783815158974-58e48e187tj842oq1dvp59v0bumov28d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQojx9fKp_1HbD8_cqa4T3FHaIYBFbj0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783815158974-58e48e187tj842oq1dvp59v0bumov28d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783815158974-rj5hm0t1op0kkrhbc66hggaop93tfhe1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.neroAvenue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

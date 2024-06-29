@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213344371400",
+    "project_id": "vetinstandevelopment",
+    "storage_bucket": "vetinstandevelopment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213344371400:android:b39987403b34dfc5185bfd",
+        "android_client_info": {
+          "package_name": "com.neroavenue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213344371400-lm9o1ud5orc0p4dhfl3m3v7int63mc2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Y2-VunASCqMKdQ3KdGtBm3bIVim2Qwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213344371400-lm9o1ud5orc0p4dhfl3m3v7int63mc2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
